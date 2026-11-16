@@ -1,0 +1,6 @@
+{
+  "name": "ClassTime",
+  "description": "Organizador académico estudiantil para administrar horarios de clases, asignaturas, tareas y evaluaciones desde un solo lugar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
